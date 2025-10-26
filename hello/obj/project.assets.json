@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-white\\hello\\hello.csproj",
+      "projectUniqueName": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj",
       "projectName": "hello",
-      "projectPath": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-white\\hello\\hello.csproj",
+      "projectPath": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-black\\hello\\hello\\hello.csproj",
       "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-white\\hello\\obj\\",
+      "outputPath": "C:\\Users\\kosta\\Desktop\\git-actually\\helloapp-black\\hello\\hello\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
